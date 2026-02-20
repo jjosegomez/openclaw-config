@@ -1,0 +1,12 @@
+agents/*/agent/auth-profiles.json
+agents/*/agent/auth.json
+.env
+agents/*/sessions/
+sessions/
+logs/
+canvas/
+devices/
+identity/
+update-check.json
+*.bak
+.memory_index.db
