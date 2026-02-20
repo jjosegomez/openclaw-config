@@ -10,3 +10,4 @@ identity/
 update-check.json
 *.bak
 .memory_index.db
+*.bak*
