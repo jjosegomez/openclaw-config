@@ -1,0 +1,8 @@
+feature: project-bootstrap
+state: intake
+updated_at: 2026-02-24
+approvals:
+  prd: pending
+  architecture: pending
+  release: pending
+blockers: []
